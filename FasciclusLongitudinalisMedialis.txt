@@ -1,0 +1,63 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-05-26T16:57:14+02:00
+
+====== FasciclusLongitudinalisMedialis ======
+Angelegt Donnerstag 26 Mai 2022
+
+[[Home]]
+[[HirnNerven]]
+[[HirnStamm]]
+
+Fasciculus Longitudinalis Medialis 
+https://flexikon.doccheck.com/de/Fasciculus_longitudinalis_medialis?utm_source=DocCheck&utm_medium=DC%20Weiterfuehrende%20Inhalte&utm_campaign=DC%20Weiterfuehrende%20Inhalte%20flexikon.doccheck.com
+
+===== Fasciculus longitudinalis medialis =====
+Synonym: mediales Längsbündel
+Englisch: medial longitudinal fasciculus, MLF
+
+=== Inhaltsverzeichnis ===
+
+== 1 Definition ==
+Der Fasciculus longitudinalis medialis ist ein Fasersystem des ZNS, dessen Anteile sich vom oberen Mittelhirn (Mesencephalon) bis zum thorakalen Rückenmark erstrecken.
+
+== 2 Aufbau ==
+Der Fasciculus longitudinalis medialis ist die größte Assoziationsbahn des Hirnstamms. Er enthält:
+
+Fasern zur Vernetzung supranukleärer präokulomotorischer Zentren (Nucleus interstitialis, Area pretectalis, Colliculus superior) mit den **Augenmuskelkernen** 
+
+- Nucleus nervi oculomotorii III, 
+- Nucleus nervi trochlearis IV, 
+- Nucleus nervi abducentis VI)
+
+Fasern zur internukleären Vernetzung der Augenmuskelkerne III und VI
+**Projektionsfasern der Vestibulariskerne zu den Augenmuskelkernen** und
+die Tractus vestibulospinales medialis et lateralis
+
+== 3 Funktion ==
+Die multiple Vernetzung der Augenmuskelkerne über den Fasciculus longitudinalis medialis ermöglicht
+- **willkürliche Blickbewegungen** 
+**- reflektorisch generierte Blickbewegungen** durch visuelle (Colliculus superior) und akustische (reziproke Faserverbindung zwischen Colliculus inferior und Colliculus superior) Stimuli und Lageänderungen (vestibulookulärer Reflex)
+**- die Koordination zwischen Blick- und Stützmotorik der Nacken-, Rumpf- und Extremitätenmuskulatur**
+
+== 4 Klinische Relevanz ==
+Eine Läsion der internukleären Faserverbindung zwischen Nucleus nervi oculomotorii und Nucleus nervi abducentis äußert sich als internukleäre Ophthalmoplegie mit Adduktionsschwäche des ipsilateralen Auges und einem kontralateralen ataktischen Abduktions-Nystagmus.
+
+siehe auch: präokulomotorisches Zentrum
+
+Tags: Augenbewegung
+
+Fachgebiete: Neurochirurgie, Neurologie, Zentralnervensystem
+
+Creative Commons Lizenzvertrag (BY, NC, SA)Wichtiger Hinweis zu diesem Artikel
+Diese Seite wurde zuletzt am 18. Juni 2021 um 12:18 Uhr bearbeitet.
+
+Um diesen Artikel zu kommentieren, melde Dich bitte an.
+
+
+== Mehr zum Thema ==
+Medizin-Lexikon
+Fasciculus longitudinalis superior
+Fasciculus longitudinalis inferior
+Fasciculus longitudinalis dorsalis
+Stria longitudinalis medialis

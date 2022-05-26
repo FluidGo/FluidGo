@@ -1,0 +1,417 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-03-06T15:12:38+01:00
+
+====== HirnStamm ======
+Angelegt Sonntag 06 März 2022
+
+[[Home]]
+[[HirnNerven]]
+[[Vagus]]
+[[FasciclusLongitudinalisMedialis]] 
+
+https://de.wikibooks.org/wiki/Topographische_Anatomie:_Neuroanatomie:_Hirnstamm
+
+{{~/Wiki/my_LQCP_Bilder/Hirnstamm.png}}
+
+Topographische Anatomie: Neuroanatomie: Hirnstamm
+Zur Navigation springenZur Suche springen
+< Topographische Anatomie | Neuroanatomie
+
+Inhaltsverzeichnis
+1	Der Hirnstamm gliedert sich in Mittelhirn, Brücke und verlängertes Mark
+1.1	Abschnitte des Hirnstamms
+1.1.1	Morphologie des Mesencephalons
+1.1.2	Morphologie des Pons
+1.1.3	Morphologie der Medulla oblongata
+1.2	Vierter Ventrikel
+1.3	Funktionelle Einheiten des Hirnstamms
+2	Für die Hirnnerven existieren 18 Kernkomplexe
+2.1	Grundlagen zu den Hirnnerven
+2.1.1	Austritte der Hirnnerven
+2.1.2	Qualitäten der Hirnnerven
+2.2	Die Hirnnervenkerne und ihre Verbindungen
+2.2.1	Kerne für die Augenmuskelnerven
+2.2.2	Trigeminusgruppe
+2.2.3	Kerne für das Innenohr
+2.2.4	Kerne für die Nervi facialis, glossopharyngeus und vagus
+2.2.5	Rein motorische Kerne
+2.3	Übersichten
+3	Die Formatio reticularis ist ein diffuses Neuronennetz mit lokalen Verdichtungen
+3.1	Topographische Gliederung
+3.2	Funktionelle Gliederung
+3.2.1	Weckzentrum
+3.2.2	Vegetative Zentren
+3.2.2.1	Brechzentrum
+3.2.2.2	Atemzentrum
+3.2.2.3	Kreislaufzentrum
+3.2.3	Motorische Zentren
+3.2.3.1	Allgemeine motorische Zentren
+3.2.3.2	Zentren für die Blickkoordination
+3.2.4	Periaquäduktales Grau
+3.3	Biochemische Gliederung
+4	Wichtige Faserbahnen durchqueren den Hirnstamm
+4.1	Absteigende Bahnen
+4.2	Aufsteigende Bahnen
+4.3	Sowohl ab- als auch aufsteigende Bahnen
+Der Hirnstamm gliedert sich in Mittelhirn, Brücke und verlängertes Mark
+Gray708.png
+
+Abschnitte des Hirnstamms
+Der Hirnstamm bildet den Übergang vom Rückenmark zum Großhirn. Durch ihn verlaufen diverse wichtige Bahnen, außerdem beherbergt er Kerne von Hirnnerven und zahlreiche lebenswichtige Zentren; daher vermögen bereits kleine Hirnstamm-Traumata große Auswirkungen zu zeigen.
+
+Funktionell und anatomisch wird der Hirnstamm von kaudal nach kranial gegliedert in
+
+Die Medulla oblongata: vom Abgang des ersten Halsnervenpaars bis zum Sulcus bulbopontinus,
+Das Pons: vom Sulcus bulbopontinus bis zum Beginn der Crura cerebri,
+Das Mesencephalon.
+In situ ist der Hirnstamm von Großhirn und Kleinhirn umgeben und nur ventral frei, weshalb sich sein charakteristisches Relief erst nach Entfernung von Groß und Kleinhirn erkennen lässt.
+
+Morphologie des Mesencephalons
+Das Mesencephalons besitzt ventral und dorsal eine Reihe markanter Objekte:
+
+Ventral befinden sich die beiden Hirnschenkel, die die Fossa interpeduncularis einrahmen; hier erscheint der Nervus oculomotorius (III. Hirnnerv).
+Dorsal liegen die Colliculi inferiores und superiores mit ihren jeweiligen Bindearmen (Brachia colliculi inferiorium und superiorium). Kranial schließt sich die Area pretectalis an. Zwischen den Colliculi inferiores erscheint der Nervus trochlearis (IV. Hirnnerv); er ist der einzige dorsal austretende Hirnnerv, während die Hirnnerven III bis XII an der Ventralseite des Hirnstamms hervortreten.
+Morphologie des Pons
+Der Pons besitzt ventral eine Fasermasse und dorsal die Kleinhirnstiele, während seitlich zwei Hirnnerven austreten:
+
+Ventral liegt eine große Wölbung querverlaufender Fasern (Kommissurfasern), die eine median verlaufende Delle besitzt (Sulcus basilaris pontis für die Arteria basilaris).
+Dorsal steht der Pons über drei Kleinhirnstiele mit dem Kleinhirn in Verbindung, wobei diese Stiele eng aneinander angrenzen; der mittlere Kleinhirnstiel ist der größte Stiel und liegt am weitesten lateral.
+Am seitlichen Unterrand des Pons (Kleinhirnbrückenwinkel) erscheinen die Nervi facialis (VII. Hirnnerv) und vestibulocochlearis (VIII. Hirnnerv).
+Im Pons liegen die Ponskerne, in denen Fasern aus dem Kortex verschaltet werden auf Neurone, die in der Pons auf die Gegenseite ziehen und dann die Hemisphären des Kleinhirns aufsuchen.
+
+Morphologie der Medulla oblongata
+Die Medulla oblongata besitzt von allen Abschnitten des Hirnstamms die meisten morphologischen Besonderheiten:
+
+Ventralseite:
+Medial liegen die Pyramiden, d. h. die durch die kortikospinalen Fasern (Pyramidenbahn) verursachten Vorwölbungen zu beiden Seiten der Fissura mediana anterior; die kortikospinalen Fasern kreuzen unterhalb der Pyramiden, was von außen erkennbar ist (Decussatio pyramidum).
+Seitlich von der jeweiligen Pyramide und von dieser abgetrennt durch den Nervus hypoglossus (XII. Hirnnerv) befindet sich die Olive; sie steht funktionell in enger Beziehung zum Kleinhirn.
+Dorsal liegen die Fasciculi gracilis (medial) und cuneatus (lateral), also die Bahnen für die Epikritik und die bewusste Propriozeption. Sie enden in den Nuclei gracilis und cuneatus, welche die Oberfläche der Medulla oblongata als Tubercula gracile (medial) und cuneatum (lateral) hervorwölben.
+Vierter Ventrikel
+Gray709.png
+Auf der Rückseite des Hirnstamms befindet sich der vierte Ventrikel. Seine Grundlage ist die Fossa rhomboidea (Rautengrube), und er wird von folgenden Strukturen begrenzt:
+
+kaudal: unteres Kleinhirnsegel,
+kranial: oberes Kleinhirnsegel,
+lateral: Kleinhirnstiele, die die Recessus laterales des Ventrikels begrenzen;
+das Kleinhirn bildet die dorsale Begrenzung des Ventrikels.
+Einige Hirnnervenkerne (Nucleus dorsalis nervi vagi, Nuclei vestibulares in der seitlicvhen Area vestibularis etc.) wölben sich in den Ventrikel vor. Am Boden des vierten Ventrikels zeichnen sich zudem drei Furchen ab: median der Sulcus medianus, jeweils lateral von ihm je ein Sulcus limitans.
+
+Über fünf Ausgänge steht der vierte Ventrikel mit anderen Liquorräumen in Verbindung. Er kommuniziert
+
+mit dem Aquaeductus mesencephali (rostral),
+mit dem Canalis centralis des Rückenmarks (kaudal),
+mit dem äußeren Liquorraum, und zwar
+über die beiden Recessus laterales (auf Höhe der Recessus laterales), die jeweils eine Öffnung (Apertura lateralis) besitzen, und
+über die Apertura mediana.
+Funktionelle Einheiten des Hirnstamms
+Der Hirnstamm enthält zahlreiche funktionelle Einheiten:
+
+Hirnnervenkerne, wobei die Derivate der Grundplatte (motorische Kerne) medial des Sulcus limitans liegen und die Derivate der Flügelplatte (sensible Kerne) lateral des Sulcus limitans.
+Motorische Zentren wie Nucleus ruber und Substantia nigra,
+Formatio reticularis mit vielfältigen vegetativen Steuerzentralen,
+Hinterstrangkerne in denen Impulse der Sensibilität verschaltet werden,
+Brückenkerne, die in enger Beziehung zum Kleinhirn stehen.
+Im Folgenden werden wir auf die Hirnnerven und die Formatio reticularis eingehen, weil sich beide über den gesamten Hirnstamm erstrecken. Die Pons werden wir im Zusammenhang mit dem Kleinhirn näher betrachten, und dem Mittelhirn ist ein eigenes Kapitel gewidmet.
+
+Für die Hirnnerven existieren 18 Kernkomplexe
+Grundlagen zu den Hirnnerven
+Austritte der Hirnnerven
+Gray724.png
+Die Austritte der Hirnnerven haben wir bereits in einem früheren Kapitel betrachtet. Die Besonderheiten sollen hier noch einmal hervorgehoben werden:
+
+Der erste und zweite Hirnnerv (Nervus olfactorius und Nervus opticus) sind keine eigentlichen Nerven, sondern Gehirn.
+Der vierte Hirnnerv (Nervus trochlearis) entspringt als einziger Hirnnerv von der Rückseite des Gehirns, und zwar unterhalb der unteren Hügel.
+Während der sechste Hirnnerv (Nervus abducens) medial im Sulcus bulbopontinus entspringt, erscheinen die Hirnnerven VII und VIII (Nervus facialis und Nervus vestibulocochlearis) weiter lateral.
+Die Hirnnerven IX, X und XI (Nervus glossopharyngeus, Nervus vagus und Nervus accessorius) befinden sich lateral der Olive, der zwölfte Hirnnerv (Nervus hypoglossus) tritt dagegen zwischen Pyramide und Olive aus.
+Qualitäten der Hirnnerven
+Die Qualitäten der verschiedenen Hirnnerven wurden bereits angesprochen; grundsätzlich kann man motorische von sensiblen Neuronen trennen:
+
+Motorische Fasern gliedert man in somatomotorische und viszeromotorische Efferenzen (soma = Körper, viscera = Eingeweide).
+Somatomotorische Efferenzen steuern die (willkürlich ansteuerbare) Skelettmuskulatur an,
+Viszeromotorische Efferenzen gliedern sich in
+die allgemein-viszeromotorischen Efferenzen für die Eingeweidemuskulatur (glatte Muskulatur) und
+die speziell-viszeromotorischen Efferenzen für die Muskulatur aus den Kiemenbögen.
+Die sensiblen Fasern werden ebenfalls aufgeteilt, und zwar analog zu den motorischen Fasern in somatosensible und viszerosensible Afferenzen. Somatosensible Afferenzen übermitteln Signale von außen, viszerosensible Afferenzen Signale von innen.
+Während allgemein-somatosensible Afferenzen die Exterozeption (Haut) und Propriozeption (Muskeln, Sehnen, Gelenke) übermitteln, dienen die speziell-somatosensiblen Afferenzen dazu, Impulse von den "großen" nach außen gerichteten Sinnesorganen (Auge und Ohr) weiterzuleiten.
+Die allgemein-viszerosensiblen Afferenzen leiten Impulse aus den Eingeweiden und den Blutgefäßen, speziell-viszerosensible Afferenzen übermitteln die "große" innere Sensibilität (Riechen und Schmecken).
+Qualität	Innervation
+motorisch	somatomotorisch	Skelettmuskulatur
+viszeromotorisch	allgemein+	Eingeweidemuskulatur
+speziell	Kiemenbogenmuskulatur
+sensibel	somatosensibel	allgemein	Extero- und Propiozeption
+speziell*	Auge und Ohr
+viszerosensibel	allgemein	Eingeweide
+speziell*	Riechen, Schmecken
+Die mit "*" markierten Qualitäten werden auch zur Sensorik zusammengefasst. Das "+" soll darauf hinweisen, dass die allgemein-viszeromotorische Faserqualität auch mit "parasympathisch" gleichgesetzt werden kann. Man erinnere sich hierzu, dass der Sympathikus nicht im Hirnstamm lokalisiert ist, sondern in den Seitenhörnern des thorakolumbalen Rückenmarks.
+
+Die Hirnnervenkerne und ihre Verbindungen
+Gray696.png
+Die Hirnnervenkerne sind die Verschaltungsstationen der Hirnnerven, d. h. Ursprünge der motorischen Fasern oder der erste Projektionsort der sensiblen Fasern. Mit Hilfe von Hirnstammreflexen lässt sich überprüfen, ob die Kerne selbst, ihre Zuleitung oder Fortleitung intakt sind.
+
+Während der Ontogenese weichen die medialen Anteile des kranialen Marks auseinander, m. a. W., der Hirnstamm lässt sich gewissermaßen als Rückenmark betrachten, dessen hinterer Anteil aufgeklappt ist. Man erinnere sich, dass sich im Rückenmark die motorischen Kerne ventral befinden, während die sensiblen Neurone dorsal lokalisiert sind. Somit klappen mit dem dorsalen Anteil auch die sensiblen Anteile zur Seite. Daher befinden sich im Hirnstamm die motorischen Hirnnervenkerne medial und die sensiblen Kerne lateral. Im Folgenden werden die Hirnnervenkerne der Reihe nach betrachtet, und zwar von kranial nach kaudal (Topographie der Hirnnerven: Kapitel XY).
+
+Kerne für die Augenmuskelnerven
+Der Nervus oculomotorius (III) hat zwei Kerne – der eine ist für die Motorik von sechs äußeren Augenmuskeln zuständig, der andere ist parasympathisch. Beide Kerne sind im Mittelhirn lokalisiert, und zwar auf Höhe der oberen Hügel.
+
+Neurone aus dem somatomotorischen Hauptkern (Nucleus nervi oculomotorii) innervieren sechs der acht äußeren Augenmuskeln und die oberen Lidheber. Dieser Kern lässt sich in Unterkerne unterteilen; dabei gibt es nur einen Unterkern für die beiden oberen Lidheber, während die Unterkerne für alle anderen Muskeln paarig angelegt sind.
+Der parasympathische Kern (Nucleus accessorius nervi oculomotorii oder Nucleus Edinger-Westphal) befindet sich hinter dem somatomotorischen Hauptkern. Seine Neurone innervieren zwei innere Augenmuskeln: den Musculus sphincter pupillae (Miosis bei parasympathischer Aktivität) und den Musculus ciliaris (Linsenkrümmung).
+Der Nervus trochlearis (IV) besitzt nur einen Kern, und zwar den somatomotorischen Nucleus nervi trochlearis. Dieser liegt ebenfalls im Mittelhirn, aber auf Höhe der unteren Hügel, und ist für den Musculus obliquus superior zuständig. Man beachte, dass der Nervus trochlearis als einziger Hirnnerv auf der Rückseite des Hirnstamms austritt.
+
+Auch der Nervus abducens (VI) hat nur einen Kern, den Nucleus nervi abducentis. Dieser ist somatomotorisch und steuert den Musculus rectus lateralis an. Er befindet sich im Gegensatz zu den anderen Kernen für die Augenmuskeln nicht im Mittelhirn, sondern in der kaudalen Pons, und zwar relativ weit medial.
+
+Die Kerne für die verschiedenen Augenmuskeln stehen miteinander in Kontakt und werden von Blickzentren höherer Ebenen koordiniert.
+
+Trigeminusgruppe
+Gray698.png
+Der Nervus trigeminus (V) besteht aus einer motorischen Wurzel für die Kaumuskulatur und einer sensiblen Wurzel für alle sensiblen Qualitäten im Gesichtsbereich, wobei jede Wurzel über einen eigenen Kernbereich verfügt:
+
+Die motorische Wurzel entspringt aus dem Nucleus motorius nervi trigemini, der sich in Höhe der oberen Pons befindet.
+Die sensible Wurzel enthält sowohl Fasern der Propriozeption als auch der epikritischen und protopathischen Sensibilität, die in einem langen Kerngebiet enden, das sich vom Mittelhirn über die Pons bis ins Rückenmark erstreckt. Für jede Qualität ist ein anderer Kern zuständig (von rostral nach kaudal):
+Die Perikaryen propriozeptiver Fasern liegen im Nucleus mesencephalicus nervi trigemini des Mittelhirns.
+Fasern der epikritischen Sensibilität werden im Nucleus principalis nervi trigemini umgeschaltet; er befindet sich auf Höhe der oberen Pons.
+Die Fasern der protopathischen Sensibilität werden im Nucleus spinalis nervi trigemini umgeschaltet, der von der Pons bis ins Rückenmark zieht und somatotopisch gegliedert ist, und zwar genau umgekehrt zur Lage der Innervationsgebiete (die Mundregion ist im Kern rostral repräsentiert, die Stirnregion kaudal).
+Man beachte, dass es sich bei den Perikaryen im Nucleus mesencephalicus um die Perikaryen der ersten Neurone handelt, während es bei den beiden übrigen Kernen die Perikaryen der zweiten Neurone sind, denn die Perikaryen der entsprechenden ersten Neurone liegen im Ganglion trigeminale. Die Efferenzen dieser Kerne schließen sich den entsprechenden Bahnen aus dem Rückenmark an (Nucleus principalis: nach Kreuzung Anschluss an den Lemniscus medialis, Nucleus spinalis: nach Kreuzung Anschluss an den Tractus spinothalamicus), wobei der Nucleus mesencephalicus eine Ausnahme bildet (er zieht zum Nucleus motorius nervi trigemini).
+
+Kerne für das Innenohr
+Der Nervus vestibulocochlearis (VIII) besteht eigentlich aus zwei Nerven, und zwar aus einem für den Gleichgewichtssinn und einem für den Gehörsinn. Es handelt sich also um zwei speziell-somatosensible Nerven.
+
+Die Nuclei vestibulares sind für die Verschaltung von Afferenzen aus dem Gleichgewichtsorgan (Vestibularorgan) zuständig und liegen diffus in einem Gebiet der dorsalen Pons. Ähnlich diffus wie ihre Lage sind auch ihre Efferenzen: sie ziehen zum Thalamus, ins Kleinhirn sowie zu den Kernen und Zentren der Augenmuskeln, in die Formatio reticularis und ins Rückenmark – also vor allem zu Zentren, die Impulse aus dem Gleichgewichtsorgan benötigen, weil sie für die Stabilisierung des Gleichgewichts bedeutend sind oder die Blickrichtung der Augen stabilisieren (vestibulo-okulärer Reflex).
+In den Nuclei cochleares werden dagegen die Afferenzen aus der Cochlea verschaltet, wobei die Efferenzen dann im Lemniscus lateralis zu den unteren Hügeln ziehen; diese Kerne liegen lateral der Nuclei vestibulares und bilden die lateralste Kerngruppe des Hirnstamms.
+Kerne für die Nervi facialis, glossopharyngeus und vagus
+Gray697.png
+Man erinnere sich, dass der Nervus facialis (VII) zum einen die mimische Muskulatur versorgt, zum anderen parasympathisch die meisten Speicheldrüsen und zusätzlich speziell-viszerosensibel die vorderen beiden Drittel der Zunge. Daher hat der Nervus facialis drei Kerngebiete, und zwar eines für die mimische Muskulatur (speziell-viszeromotorisch), einen parasympathischen Kern und außerdem die Nuclei tractus solitarii, die das Zentrum für alle Geschmacksempfindungen darstellen.
+
+Für die Innervation der mimischen Muskulatur ist der Nucleus nervi facialis zuständig. Er liegt in der mittleren Pons, und zwar unterhalb des motorischen Trigeminuskerns, und besitzt eine somatotopisch Gliederung: ein Teil innerviert den Lidschluss- und Stirnmuskel, ein anderer Teil die übrige Muskulatur. Der Kern liegt in enger Nachbarschaft zum Kern des Nervus abducens, so dass die Fasern um diesen Kern herumbiegen müssen (inneres Fazialisknie).
+Medial und ein wenig unterhalb vom Nucleus nervi facialis liegt der parasympathische Nucleus salivatorius superior, der zwei Speicheldrüsen (Glandulae sulingualis und submandibularis) und die Tränen-, Gaumen und Nasendrüsen versorgt. Weil er ein parasympatischer Kern ist, wird er vom Hypothalamus über den Fasciculus longitudinalis posterior angesteuert. Weiter kaudal befindet sich der "Bruder" des Kerns, der die Glandula parotidea versorgt und zum Nervus glossopharyngeus gehört (s. u.).
+Die Nuclei tractus solitarii ("Nucleus solitarius"; lat. solitarius: alleine, einsam) tragen ihren Namen deshalb, weil sie die einzige Verschaltungsstation des Hirnstamms sind, in der die speziell-viszerosensiblen Fasern (Geschmack, Geruch) umgeschaltet werden – sowohl vom Nervus facialis, als auch von den Nervi glossopharyngeus und vagus. Diese Kerne liegen vor allem in der Medulla oblongata, und zwar medial des Nucleus spinalis nervi trigemini.
+Der Nervus glossopharyngeus (IX) innervier erstens motorisch die Derivate des dritten Kiemenbogens, zweitens sensibel ein zentrales Gebiet im Bereich des Pharynx, drittens parasympathisch die Glandula parotis und viertens die Zunge sowie Mechano- und Chemorezeptoren aus dem Sinus caroticus bzw. dem Glomus caroticum. Daher hat der Nervus glossopharyngeus vier Kerngebiete:
+
+Der Nucleus ambiguus innerviert – analog zum Nucleus nervi facialis – die Derivate eines Kiemenbogens, und zwar des dritten Kiemenbogens, d. h. die Schlund- und Gaumensegelmuskulatur. Dieser Kern liegt kaudal des Nucleus nervi facialis.
+Allgemein-somatosensible Afferenzen aus der Pharynxgegend (Oro- und Nasopharynx, hinteres Zungendrittel, Tuba auditiva) enden in einem Trigeminuskern, und zwar im Nucleus spinalis nervi trigemini.
+Die parasympathischen Fasern für die Glandula parotis nehmen ihren Ausgang vom Nucleus salivatorius inferior, der unterhalb seines "Bruders" liegt, welcher für die übrigen Drüsen zuständig ist.
+In den Nuclei tractus solitarii enden die speziell-viszerosensiblen Fasern aus dem hinteren Zungendrittel; man erinnere sich, dass in diesen Kern auch die speziell-viszerosensiblen Fasern aus den Nervi facialis und vagus einlaufen. Außerdem ziehen in diesen Kern die Afferenzen aus dem Sinus caroticus (enthält Mechanorezeptoren, die den Dehnungszustand der Gefäße messen und so auf den Blutdruck einwirken können) und aus dem Glomus caroticum (enthält Chemorezeptoren, die Veränderungen der O2- und CO2-Partialdrücke wahrnehmen und die Atmung beeinflussen); die entsprechenden Efferenzen gelangen zum Vaguskern und zum Atemzentrum.
+Man erinnere sich, dass der Nervus vagus (X) ein "erweiterter Nervus glossopharyngeus" ist, weil er im Prinzip ähnliche, jedoch weiter peripher gelegene Gebiete versorgt wie jener. Daher hat der Nervus vagus fast die gleichen Kerngebiete wie der Nervus glossopharyngeus, die einzige Ausnahme bildet der parasympathische Anteil.
+
+Der Nervus vagus innerviert die Derivate des vierten und fünften Kiemenbogens (unterer Pharynx, alle inneren Larynxmuskeln), wobei die entsprechenden speziell-viszeromotorischen Efferenzen vom Nucleus ambiguus ausgehen – wie beim Nervus glossopharyngeus. Man beachte dabei, dass die Neurone für die Larynxmuskulatur zusammen mit den parasympathischen Fasern in der Karotisscheide verlaufen und erst im Thorax zum Larynx umbiegen; die übriegen speziellen Viszeroefferenzen formieren sich dagegen zu einem Plexus.
+Die allgemein-somatosensiblen Afferenzen aus der "erweiterten Pharynxgegend" (äußerer Gehörgang, ein Teil der Ohrmuschel, Kehlkopf; zusätzlich die Dura mater der hinteren Schädelgrube) laufen – analog zum Nervus glossopharyngeus – zum untersten Trigeminuskern, d. h. zum Nucleus spinalis nervi trigemini.
+Der Nervus vagus innerviert zwar keine Speicheldrüsen, dennoch hat er einen parasympathischen Anteil, und zwar den Nucleus dorsalis nervi vagi. Dieser Kern liegt kaudal des Nucleus salivatorius inferior, im dorsalen Bereich der Medulla oblongata. Er ist der wohl wichtigste parasympathische Kern des Organismus, denn er innerviert alle inneren Organe bis hin zur linken Kolonflexur.
+Auch im Bereich des Ösophagus, der Epiglottis und der Trachea gibt es Geschmackssensoren. Diese speziell-viszerosensiblen Fasern ziehen in die Nuclei tractus solitarii ein. Zusätzlich erhält der Kern Afferenzen aus den Barorezpeptoren aus dem Aortenbogen und dem rechten Vorhof des Herzens. Man beachte dabei die Ähnlichkeit zu den entsprechenden Verhältnissen beim Nervus glossopharyngeus!
+Rein motorische Kerne
+Der Nervus accessorius (XI) ist rein somatomotorisch, denn er innerviert die Musuculi sternocleidomastoideus und trapezius. Deshalb besitzt er nur einen einzigen Kern, den Nucleus spinalis nervi accessorii, der eigentlich im Vorderhorn des Rückenmarks lokalisiert ist (von C1 bis C5); daher müssen die entsprechenden Fasern zuerst durch das Foramen magnum in den Schädel einziehen, um ihn durch das Foramen jugulare wieder zu verlassen. Für eine kurze Strecke lagern sich Fasern aus dem Nucleus ambiguus (speziell-viszeromotorische Fasern) als Radix cranialis an den Nervus accessorius an und ziehen kurz darauf zu den Nervi glossopharyngeus und vagus weg.
+
+Der Nervus hypoglossus (XII) innerviert die Zungenmuskulatur und hat daher nur einen einzigen Kern, und zwar den langen Nucleus nervi hypoglossi, der in der dorsalen Medulla oblongata paramedian lokalisiert ist. Dieser Kern erhält zahlreiche Afferenzen sowohl von der Großhirnrinde als auch von der Retikulärformation und den Nuclei tractus solitarii, so dass er Bestandteil verschiedener Reflexbögen (Kauen, Schlucken) wird.
+
+Übersichten
+Die folgende Tabelle gliedert die Hirnnervenkerne nach funktionellen Gesichtspunkten.
+
+Augenmuskeln	Hören, Gleichgewicht	Kiemenbogenmuskulatur, Gesichts-Sensibilität	Kiemenbogenmuskulatur, Parasympathikus, Geschmack	Muskeln
++ Parasympathikus			+ Sensibilität	
+Nerv	III	IV	VI	VIII	V	VII	IX	X	XI	XII
+motorisch	Ncl. n. oculomotorii	Ncl. n. trochlearis	Ncl. n. abducentis		Ncl. motorius n. trigemini	Ncl. n. facialis	Nucleus ambiguus	Ncl. spinalis n. accessorii	Ncl. n. hypoglossi
+sensibel				Ncll. vestibulares Ncll. cohleares	Ncll. mesencephalicus (Propriozeption), principalis (Epikritik), spinalis (Protopathie) n. trigemini	Ncl. tractus solitarii		
+Ncl. spinalis n. trigemini	
+parasympathisch	Edinger-Westphal					Ncl. salivatorius sup.	Ncl. salivatorius inf.	Ncl. dorsalis n. vagi		
+In der folgenden Übersicht sind die Hirnnervenkerne zusammengestellt. Zudem sind ihre Verbindungen von der Peripherie bis ins Zentrum (bei afferenten Nerven) und umgekehrt (bei efferenten Nerven) angegeben.
+
+Vom/zum Zentrum	Kern	Qualität	In die/aus der Peripherie
+→	Horizontale/vertikale Blickzentren + Ncl. n. abducentis	Ncl. n. oculomotorii	Somatomotorisch	III: Sechs äußere Augenmuskeln + Lidheber (Versorgung durch 1 Kern)
+→	Area pretectalis, Colliculi superiores	Ncl. accessorius n. oculomotorii (Ncl. Edinger-Westphal)	Allgemein-viszeromotorisch (parasympathisch)	III: Innere Augenmuskeln
+→	Horizontale/vertikale Blickzentren	Ncl. n. trochlearis	Somatomotorisch	IV: M. obliquus superior
+→	Horizontale Blickzentren	Ncl. n. abducentis	Somatomotorisch	VI: M. rectus lateralis
+←	Thalamus, Kleinhirn, Rückenmark, Kerne der Augenmuskeln	Ncll. vestibulares	Speziell-somatosensibel	VIII: Vestibularorgan
+←	Über den Lemniscus lateralis zu den Colliculi inferiores	Ncll. cochleares	Speziell-somatosensibel	VIII: Schnecke des Innenohrs
+→	Motokortex (über Fibrae corticonucleares)	Ncl. motorius n. trigemini	Speziell-viszeromotorisch	V: Kaumuskulatur
+←	Ncl. motorius n. trigemini	Ncl. mesencephalicus n. trigemini	Allgemein-somatosensibel	V: propriozeptive Fasern der Kaumuskulatur
+←	Thalamus (über Lemniscus trigeminalis)	Ncl. principalis n. trigemini	Allgemein-somatosensibel	V: epiktische Fasern der Kopfregion
+←	Thalamus	Ncl. spinalis n. trigemini	Allgemein-somatosensibel	V, IX, X: protopathische Fasern der Kopfregion
+→	Motokortex (über Fibrae corticonucleares)	Ncl. n. facialis	Speziell-viszeromotorisch	VII: mimische Muskulatur
+→	Hypothalamus (über Fasciculus longitudinalis)	Ncl. salivatorius sup.	Allgemein-viszeromotorisch	VII: Glandulae submandibularis, sublingualis, Tränen- und Nasendrüsen
+←	Thalamus und vegetative Hirnstammzentren	Ncl. tractus solitarii	Speziell-viszerosensibel	VII, IX, X: Geschmackssensoren aus der Zunge, Brust- und Bauch-Eingeweiden
+→	Motokortex (über Fibrae corticonucleares)	Ncl. ambiguus	Speziell-viszeromotorisch	IX, X: Pharynx- und Kehlkopfmuskulatur
+→	Hypothalamus (über Fasciculus longitudinalis)	Ncl. salivatorius inf.	Allgemein-viszeromotorisch	IX: Gandula parotidea
+→	Hypothalamus (über Fasciculus longitudinalis), Ncl. tractus solitarii	Ncl. dorsalis n. vagi	Allgemein-viszeromotorisch	X: Eingeweide bis zur linken Kolonflexur
+→	Motokortex (über Fibrae corticonucleares)	Ncl. spinalis n. accessorii	Somatomotorisch	XI: Mm. sternocleidomastoideus, trapezius
+→	Motokortex (über Fibrae corticonucleares)	Ncl. n. hypoglossi	Somatomotorisch	XII: Zungenmuskulatur
+→: efferent, ←: afferent
+
+Die folgende Übersicht ist ein schematisierter Frontalschnitt durch den Hirnstamm der rechten Seite.
+
+Speziell somatosensibel (Gleichgewicht, Gehör)	Allgemein somatosensibel	Allg./spez. viszerosensibel (Empfindungen aus Eingeweiden/Geschmack)	Speziell viszeromotorisch (Kiemenbogenderivate)	Allgemein viszeromotor. (Parasympathikus)	Somatomotorisch
+Mittelhirn		Ncl. mesencephalicus n. trigemini			Ncl. accessorius n. oculomotorii**	Ncl. n. oculomotorii
+Ncl. n. trochlearis
+Pons	Ncl. principalis n. trigemini	Ncl. motorius n. trigemini	
+Ncl. spinalis n. trigemini	Ncl. n. facialis	Ncl. salivator. sup.	Ncl. n. abducentis
+Medulla	Ncll. cochleares	Ncl. tractus solitarii	Ncl. ambiguus	Ncl. salivator. inf.	Ncl. n. hypoglossi
+Ncll. vestibulares*	Ncl. dorsalis n. vagi	
+Ncl. spinalis n. accessorii		
+(*) Die Nuclei vestibulares sind diffus auf Höhe der unteren Pons und der Medulla oblongata über einen weiten Bereich verstreut.
+
+(**) Der Nucleus accessorius nervi oculomotorii liegt eigentlich medial des Nucleus nervi oculomotorii, wurde in diesem Schema aber aus systematischen Gründen anders angeordnet.
+
+Die Formatio reticularis ist ein diffuses Neuronennetz mit lokalen Verdichtungen
+Gray701.png
+Die Formatio reticularis besteht aus zahlreichen Neuronen, die im gesamten Hirnstamm teils diffus verstreut sind oder sich teils zu mehr oder weniger gut abgrenzbaren Kernen oder Zentren zusammenlagern – die Formatio reticularis bildet somit gewissermaßen die Masse, die die übrigen Kerne (Hirnnervenkerne, Nucleus ruber etc.) und Bahnen des Hirnstamms umgibt. Die Zentren der Formatio reticularis haben zahlreiche Aufgaben: unter anderem beeinflussen sie entscheidende vegetative Prozesse wie die Atmung oder den Blutkreislauf, regulieren den Aktivitätsgrad des Kortex und somit den Wachheitsgrad, wirken auf die extrapyramidale Motorik ein und sind an der visuellen und akustisch-vestibulären Raumorientierung beteiligt. Meist erhalten die Zentren Afferenzen von übergeordneten Instanzen und geben Efferenzen an tiefere Instanzen ab. Die Kerngebiete der Formatio reticularis lassen sich dabei nach topographischen, funktionellen oder biochemischen Aspekten klassifizieren.
+
+Topographische Gliederung
+Topographisch unterscheidet man an der Formatio retiularis in eine mediale und eine laterale Gruppe:
+
+Die mediale Gruppe befindet sich in der Mitte des Hirnstamms und besteht aus großen Neuronen, die ihre langen Fortsätze in andere Hirngebiete entsenden. Neben anderen zählen hierzu die Raphekerne und der Locus coeruleus.
+Die Raphékerne produzieren Serotonin und projizieren ins limbische System und ins Rückenmark, und außerdem in den Hypothalamus und in den Neokortex.
+Der Locus coeruleus bildet Noradrenalin und projiziert ins Kleinhirn.
+Die Neurone der lateralen Gruppe sind klein, ihre Projektionen beschränken sich auf den Hirnstamm.
+Funktionelle Gliederung
+Die Formatio reticularis besitzt Zentren für bestimmte Funktionen. Die folgende Darstellung beschränkt sich auf die wichtigsten Funktionen.
+
+Weckzentrum
+Das Weckzentrum (aufsteigendes retikuläres aktivierendes System, ARAS) steuert den Wachheitsgrad des Organismus.
+
+In dieses Zentrum laufen sensible Neurone aller Qualitäten (aus Rückenmark und Hirnnervenkernen) ein, außerdem Afferenzen aus dem Kortex.
+Efferenzen gelangen dann über den unspezifischen Thalamus (Transmitter: Acetylcholin) an den gesamten Kortex.
+Sensorischer Input führt somit über die Formatio reticularis zu einer erhöhten Kortexaktivität, was psychologisch eine höhere Wachheit bewirkt. Schmerz- und akustische Reize haben dabei eine besonders starke Wirkung.
+
+Vegetative Zentren
+Brechzentrum
+Das Brechzentrum ist Teil eines Reflexbogens, der ein Erbrechen auslöst, wobei die entsprechenden Reize vielerlei Art sein können: erhöhter Druck im vierten Ventrikel, Vorliegen bestimmter Substanzen im Blut, Afferenzen aus dem Gastrointestinaltrakt, sensorischer Input u. a. aus den Vestibulariskernen. Diese Afferenzen sind dopaminerg oder serotoninerg. Dieses Zentrum setzt sich vorwiegend aus der Area postrema zusammen, einem zirkumventrikulären Organ (d. h. ohne Blut-Hirn-Schranke, so dass Substanzen aus dem Blut direkt in Kontakt mit den Neuronen kommen können) am unteren Ende des vierten Ventrikels, außerdem aus den Nuclei tractus solitarii.
+
+Atemzentrum
+Das Atemzentrum koordiniert die Atmung und entsprechende Reflexe wie z. B. das Husten. Grob unterscheidet man dabei übergeordnete und untergeordnete (Unter-)Zentren.
+
+Die untergeordneten Zentren befinden sich in der Medulla oblongata und bestehen aus inspiratorischen und exspiratorischen Neuronen; sie sind für die Atmung unbedingt notwendig, denn sie generieren das motorische Programm, das dann über reticulospinale Bahnen und schließlich über Motoneurone des Nervus phrenicus und der Nervi intercostales zu den Atemmuskeln (Zwerchfell und Interkostalmuskulatur) geleitet wird.
+Die übergeordneten Zentren liegen im Hirnstamm weiter rostral, d. h. in der Pons, und geben den untergeordneten Zentren den Takt vor; sie werden daher als "pneumotaktisches Zentrum" bezeichnet.
+Beeinflusst wird Atemzentrum
+
+vom Nervus vagus, der bei vermehrter Lungendehnung aktiviert wird und somit die Neuronengruppen in Richtung Exspiration beeinflusst,
+von chemischen Reizen (CO2- und O2-Partialdruck), die entweder in den Glomera aorticum und caroticum oder aber direkt an der Medulla oblongata gemessen werden.
+Kreislaufzentrum
+Das Kreislaufzentrum reguliert die Herzfrequenz und den Blutdruck. Es besteht
+
+aus dem Pressorzentrum, das eher lateral liegt und Herzfrequenz und Blutdruck anhebt, und
+aus dem Depressorzentrum, das medial lokalisiert ist und Herzfrequenz und Blutdruck absenkt.
+Afferenzen erhält das Kreislaufzentrum von den Nervi glossopharyngeus und vagus (über die Nuclei tractus solitarii), vom Hypothalamus und vom Kortex des Großhirns. Die Effekte des Zentrums, also Absenkung oder Steigerung von Blutdruck und Herzfrequenz, werden dann über den Parasympathikus (über den Nucleus dorsalis nervi vagi) oder über den Sympathikus vermittelt (über retikulospinale Bahnen, die ins Seitenhorn des Thorakalmarks ziehen und dort die sympathischen Neurone stimulieren).
+
+Motorische Zentren
+Allgemeine motorische Zentren
+Das motorische Zentrum der Formatio reticularis (absteigendes retikuläres System) wirkt auf das extrapyramidale motorische System ein, d. h. vor allem auf die Stützmotorik.
+
+Die Afferenzen kommen von Kortex, Kleinhirn und limbischem System,
+die Efferenzen ziehen als Tractus reticulospinalis gekreuzt oder ungekreuzt ins Rückenmark und enden dort an Motoneuronen (Vorderhorn), aber auch an afferenten Fasern des Hinterhorns – sie vermitteln also entscheidende Bahnungs- und Hemmungseffekte an den jeweiligen Neuronen.
+Man unterscheidet dabei ein oberes und ein unteres Zentrum.
+
+Das obere Zentrum liegt im Mittelhirn und wirkt aktivierend, indem es Bewegungen der proximalen Extremitäten auslöst.
+Das untere Zentrum befindet sich in Pons und Medulla oblongata und ist der Ursprungsort des Tractus reticulospinalis; es hat vor allem hemmende Funktionen, denn hauptsächlich unterdrückt es Muskeleigenreflexe.
+Das Pontine Miktionszentrum (in der lateralen Pons) fördert die Entleerung der Harnblase.
+
+Es erhält Afferenzen von Hirnstamm und Großhirn und
+entsendet seinerseits Efferenzen an das Sakralmark, wo der Miktionsreflex verschaltet wird.
+Das Pontine Miktionszentrum vermittelt also Bahnungs- und Hemmungseffekte, die für eine willkürliche Harnentleerung notwendig sind.
+
+Zentren für die Blickkoordination
+Außerdem gibt es in der Formatio reticularis mehrere Zentren, die die Bewegung der Augen direkt oder mittelbar steuern. Man unterscheidet drei Instanzen:
+
+die internukleären Verbindungen sorgen für eine Abstimmung der Augenmuskel-Bewegungen,
+die präokulomotorischen Zentren sind den internukleären Verbindungen übergeordnet,
+die übergeordneten Blickzentren sind eine koordinierende Durchgangsstation für Impulse aus kortikalen Zentren und vermitteln eigenständig bestimmte Reflexe
+Die internukleären Verbindungen verknüpfen die Kerne derjenigen Hirnnerven miteinander, die für die Augenbewegungen zuständig sind. Sie sind dabei selbst Bestandteile der Kerne (vor allem der Kerne für die Hirnnerven III und VI), benutzen den Fasciculus longitudinalis medialis als Bahn und sorgen so für eine Abstimmung mit den anderen Kernen. Durch die Konvergenzreaktion ("Schielen" bei der Betrachtung naher Gegenstände) werden die internukleären Verbindungen gehemmt.
+
+Die präokulomotorischen Zentren (Blickzentren) koordinieren als höhere Instanz die okulomotorischen Kerne und können dadurch Augenbewegungen initiieren und regulieren.
+
+Die Zentren für horizontale Blickbewegungen liegen in der Brücke (die paramediane pontine Formatio reticularis etwa initiiert horizontale Augenbewegungen zur ipsilateralen Seite),
+Die Zentren für vertikale Blickbewegungen liegen im Mittelhirn; zu ihnen zählt z. B. die rostrale mesenzephale Formatio reticularis (bestehend aus rostralem Ncl. interstitialis fasciculi longitudinalis und Ncl. interstitialis Cajal=, die zugleich korrespondierende Lid-Hebung oder –Senkung auslöst.
+Außerdem wirken an der Blickstabilisierung die Vestibulariskerne mit (Koordination von Kopf- und Augenbewegungen im Rahmen des vestibulookulären Reflexes), sowie der Nucleus prepositus perihypoglossalis, der mit den übrigen präokulomotorischen Zentren verbunden ist und rasche Blickbewegungen, Blickfolgebewegungen und Blickfixierung leistet.
+
+Neurone aus der Sehrinde des Okzipitallappens und aus kortikalen Blickzentren des Großhirns (willkürliche Augenbewegungen) beeinflussen die präokulomotorischen Zentren. Dabei werden sie in übergeordneten Blickzentren umgeschaltet: in den Colliculi superiores, die Sakkaden initiieren, und im Vestibulocerebellum, das bei Blickfolgebewegungen einbezogen wird. Die Bahn von der Sehrinde zu den übergeordneten Blickzentren ist für den optokinetischen Reflex essenziell.
+
+Periaquäduktales Grau
+Das Periaquäduktale Grau, das seinem Namen entsprechend den Aquaeductus mesencephali umgibt, hat zwei Aufgaben:
+
+Aufgrund seiner Verbindungen zum limbischen System spielt es bei Angst- und Fluchtreflexen eine wichtige Rolle und ist außerdem an der Schmerzwahrnehmung beteiligt,
+es koordiniert es die Hirnnervenkerne im Rahmen der Stimmbildung.
+Biochemische Gliederung
+Die Neuronengruppen der Formatio reticularis lassen sich auch danach einteilen, welchen Neurotransmitter sie ausschütten und welche Effekte sie dadurch bewirken. Diese Neuronengruppen sind zumeist Bestandteil der soeben betrachteten funktionellen Zentren.
+
+Monoaminerge Zellgruppen, also Neuronengruppen, die sich auf die Ausschüttung von Dopamin, Noradrenalin und Serotonin spezialisiert haben, liegen zum Teil im ARAS, im Kreislaufzentrum und in motorischen Zentren. Die wichtigsten Kerne sind
+
+Locus coeruleus (noradrenerg): die hier lokalisierten inhibitorischen Neurone projizieren vor allem ins Kleinhirn, darüber hinaus ins limbische System, ins Rückenmark und in andere Bereiche des ZNS. Daher spielt der Locus coeruleus eine Rolle bei der Bewegungskoordination, außerdem reguliert er zusammen mit dem ARAS den Wach-Schlaf-Rhythmus und kann Gehirn und Körper in Alarmbereitschaft versetzen. Charakteristischerweise sind bei einer Depression die noradrenergen Zellgruppen zu wenig aktiv.
+Raphékerne (serotoninerg): finden sich vor allem in der medianen Formatio reticularis und projizieren in das gesamte zentrale Nervensystem, besonders aber ins limbische System (Gefühle, Gedächtnis) und ins Rückenmark, außerdem zum Hypothalamus und zum Neokortex; zudem beeinflussen sie im Zusammenspiel mit dem ARAS den Wach-Schlaf-Rhythmus. Serotoninerge Zellgruppen sind bei Depressionen und Angst- und Panikstörungen beteiligt und außerdem für Migräne relevant.
+Area tegmentalis ventralis (dopaminerg): projiziert in Kortex und Nucleus accumbens. Weitere wichtige dopaminerge Neurone liegen in Mittelhirn (Substantia nigra) und Zwischenhirn. Die Zellgruppen der Substantia nigra spielen eine Rolle bei der motorischen Planung und Aktivität, andere dopaminerge Gruppen projizieren ins limbische System (psychische Prozesse) oder wirken auf vegetative Vorgänge ein.
+Wichtige Faserbahnen durchqueren den Hirnstamm
+Durch den Hirnstamm ziehen unterschiedliche Bahnen, die sich grob hinsichtlich ihrer Zugrichtung untergliedern lassen: absteigende Bahnen, aufsteigende Bahnen sowie Bahnen, deren Axone sowohl ab- als auch aufsteigen.
+
+Absteigende Bahnen
+Gray689.png
+Die wichtigste durch den Hirnstamm absteigende Bahn ist die Pyramidenbahn, d. h. die Fasermasse, die von Motoneuronen aus dem Gyrus praecentralis und anderen Gebieten abstammt. Sie gliedert sich in die Fibrae corticospinales und die Fibrae corticonucleares.
+
+Die Fibrae corticospinales ziehen durch den Hirnstamm hindurch, wobei etwa 80 Prozent der Fasern in der Medulla oblongata auf die kontralaterale Seite kreuzen (sie bilden dann den Tractus corticospinalis lateralis) und 20 Prozent erst auf Höhe des von ihnen versorgten Rückenmarkssegments kreuzen (Tractus corticospinalis anterior).
+Die Fibrae corticonucleares enden dagegen im Hirnstamm, und zwar an den jeweiligen Hirnnervenkernen. Manche Hirnnervenkerne werden dabei von kontralateralen Fasern versorgt, anderen von ipsilateralen Fasern und wiederum andere von beiden Typen:
+Der Nucleus nervi oculomotorii (III), die Nuclei nervi trigemini (V), der kaudale Teil des Nucleus nervi facialis (VII; Stirnmuskulatur) und der Nucleus ambiguus (IX, X) werden bilateral versorgt, d. h. sowohl von ipsi- als auch von kontralateralen Fasern. Dies ist auch der Grund, weshalb der Stirnmuskel bei einer zentralen Facialislähmung noch bewegt werden kann, während dies bei einer peripheren Facialislähmung nicht mehr der Fall ist - der Kern erhält auch dann noch Zuflüsse, wenn die Bahnen der einen Seite unterbrochen sind.
+Der Nucleus nervi abducentis (VI), der rostrale Teil des Nucleus nervi facialis (restliche mimische Muskualtur) und der Nucleus nervi hypoglossi (XII) werden ausschließlich kontralateral versorgt.
+Der Nucleus nervi trochlearis (IV) wird dagegen nur ipsilateral angesteuert.
+Aufsteigende Bahnen
+Gray690.png
+Verschiedene Faserbahnen durchqueren den Hirnstamm, um zu höheren Zentren zu gelangen:
+
+Es gibt drei Schleifenbahnen (Lemnisci):
+Der Lemniscus medialis (mittlere Schleifenbahn) besteht aus den zweiten Neuronen der epikritischen Sensibilität (Hinterstrang, Nuclei gracilis und cuneatus) und verläuft ab dem Mittelhirn zusammen mit dem Tractus spinothalamicus lateralis rostralwärts.
+Der Lemniscus lateralis (seitliche Schleifenbahn) ist dagegen Bestandteil der Hörbahn.
+Als "Lemniscus spinalis" werden die Tractus spinothalamici lateralis und anterior zusammengefasst.
+Auch die meisten Afferenzen zum Kleinhirn lassen sich den aufsteigendne Bahnen zuordnen: die Tractus spinocerebellares posterior (zieht durch den unteren Kleinhirnstiel) und anterior (zieht durch den oberen Kleinhirnstiel) und in gewisser Hinsicht der Tractus olivocerebellaris (zieht durch den unteren Kleinhirnstiel), weil seine Fasern ein Stückchen von der Olive in das Kleinhirn aufsteigen. Die Fibrae corticopontinocerebellares (ziehen ebenfalls durch den mittleren Kleinhirnstiel) steigen dagegen ab.
+Sowohl ab- als auch aufsteigende Bahnen
+Die wichtigste Bahn, die zugleich auf- und absteigende Fasern enthält, ist der Fasciculus longitudinalis medialis; seine Neurone sind Verbindungen zwischen den verschiedenen Kernen und Zentren des Hirnstamms untereinander.
+
+
+Gray682.png
+Gray683.png
+Gray684.png
+Gray685.png
+Navigationsmenü
+Nicht angemeldet
+Diskussionsseite
+Beiträge
+Benutzerkonto erstellen
+Anmelden
+KapitelDiskussion
+LesenBearbeitenVersionsgeschichte
+Suche
+Wikibooks durchsuchen
+Hauptseite
+Aktuelles
+Buchkatalog
+Alle Bücher
+Bücherregale
+Zufälliges Kapitel
+Datei hochladen
+Mitmachen
+Wikibooks-Portal
+Letzte Änderungen
+Hilfe
+Verbesserungen
+Administratoren
+Logbücher
+Spenden
+Werkzeuge
+Zugriffsstatistik
+Links auf diese Seite
+Änderungen an verlinkten Seiten
+Spezialseiten
+Permanenter Link
+Seiten­informationen
+Seite zitieren
+Drucken/­exportieren
+Multi Format Export
+Buch erstellen
+Als PDF herunterladen
+Druckversion
+In anderen Projekten
+Wikipedia
+Wikiversity
+Wiktionary
+Wikiquote
+Wikisource
+Wikinews
+Wikivoyage
+Commons
+Wikidata
+
+Sprachen
+Links hinzufügen

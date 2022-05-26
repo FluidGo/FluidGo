@@ -1,0 +1,205 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-02-21T10:13:39+01:00
+
+====== HirnNerven ======
+Angelegt Montag 21 Februar 2022
+
+[[Home]]
+
+=== www ===
+
+Tinnitus-Sprechstunde - Vagus Übungen
+https://www.youtube.com/channel/UCwimdU14vHgAotqAuBFrOmA
+
+##
+
+==== Arten von Nerven und Neuronen ====
+Es gibt drei allgemeine Arten von Nerven:
+
+Sensorisch
+Motor
+Relais
+Sensorische Nerven und Neuronen reagieren auf Reize und übertragen ein Signal an das Gehirn / Rückenmark, das Ihnen sagt, was Sie fühlen. Sie wandeln äußere Reize (wie Licht, Ton, Geruch, Geschmack usw.) in elektrische Impulse um, die Ihr Gehirn lesen und verstehen kann.
+
+Motorische Nerven und Neuronen verbinden das Gehirn mit Muskeln und Drüsen. Sie übertragen ein Signal an diese Muskeln und Drüsen und erzeugen eine Reaktion wie beispielsweise Bewegung (auch bekannt als motorische Funktion) oder Ausschüttung von Hormonen.
+
+Relais-Nerven und -Neuronen sind für die Übertragung oder Weitergabe von Informationen innerhalb des Zentralnervensystems verantwortlich. Sie könnten Signale an verschiedene Teile des Gehirns senden oder ein Signal vom Gehirn an das Rückenmark senden.
+
+https://de.shizensui.com/22-cranial-nerves-22660
+
+==== Was sind die Hirnnerven? ====
+Es gibt zwölf Hirnnervenpaare, von denen sich jeweils eines auf beiden Seiten (links und rechts) des Gehirns befindet.
+
+=== 0 Nervus Terminalis ===
+von lateinisch: terminare - abgrenzen, beenden
+Synonyme: Terminalnerv, "nullter Hirnnerv", Nervus 0, Nervus XIII
+Englisch: terminal nerve, cranial nerve zero
+
+Der Nervus terminalis ist ein paariger, dünner Hirnnerv, der bei Wirbeltieren an der Basis des Endhirns entspringt.
+
+Der Nervus terminals besteht aus einer Ansammlung von Ganglienzellen, die dünne Bündel nicht-myelinisierter Nervenfasern zur Riechschleimhaut und zum Gehirn entsenden. Er wird aufgrund seiner zarten Struktur bei Sektionen häufig übersehen und ist erst 1913 zum ersten Mal beschrieben worden.
+
+Der Nervus terminalis dient wahrscheinlich der Wahrnehmung von Pheromonen.
+Teilt Fibers mit dem Olfactorius
+
+https://flexikon.doccheck.com/de/Nervus_terminalis?utm_source=www.doccheck.flexikon&utm_medium=web&utm_campaign=DC%2BSearch
+
+##
+
+Die Aufnahme von ätherischen Ölen über das **Vomeronasalorgan**
+
+Dieses Organ ist für das Erkennen von Pheromonen (Sexual-Lockstoff, Abwehrstoff oder Alarmsubstanz) zuständig. Sein Sitz ist oberhalb des Pflugscharbeins in einer Vertiefung an beiden Seiten der Nasenscheidewand. **Die Riechleitung erstreckt sich vom Nervus terminalis bis zum Hypothalamus** (steuert sexuelle Reize, Freude, Entspannung, …). Es gibt weibliche und männliche **Pheromone**. Unser persönlicher Duft ist entscheidend für die Partnerwahl. Er trägt dafür Sorge, dass wir uns den genetisch richtigen Partner suchen um so gesunde Nachkommen zu zeugen.
+
+https://pronatur24.eu/allgemein-aetherische-oele
+
+##
+
+on YT
+
+https://www.youtube.com/watch?v=SwGdi6c_Cng
+
+=== 1 Nervus Olfactorius - Riechnerv ===
+Der Riechnerv überträgt sensorische Informationen über Gerüche, denen Sie begegnen, an Ihr Gehirn.
+
+Wenn Sie aromatische Moleküle einatmen, lösen sie sich in einer feuchten Auskleidung auf dem Dach Ihrer Nasenhöhle auf, die als **Riechepithel** bezeichnet wird. Dies stimuliert Rezeptoren, die Nervenimpulse erzeugen, die sich zu Ihrem Riechkolben bewegen. Ihr Riechkolben ist eine ovale Struktur, die spezielle Gruppen von Nervenzellen enthält.
+
+Vom Riechkolben gelangen Nerven in Ihren **Riechtrakt, der sich unterhalb des Frontallappens** Ihres Gehirns befindet. Nervensignale werden dann an Bereiche Ihres Gehirns gesendet, die sich mit dem Gedächtnis und der Erkennung von Gerüchen befassen.
+
+=== 2 Nervus Opticus - Sehnerv ===
+Der Sehnerv ist der sensorische Nerv, der das Sehen beinhaltet.
+
+Wenn Licht in Ihr Auge eindringt, kommt es mit speziellen Rezeptoren in Ihrer Netzhaut in Kontakt, die als **Stäbchen und Zapfen** bezeichnet werden. 
+
+**Stäbe** kommen in großer Zahl vor und sind sehr lichtempfindlich. Sie sind spezialisierter auf Schwarzweiß- oder Nachtsicht.
+
+**Zapfen** sind in geringerer Anzahl vorhanden. Sie haben eine geringere Lichtempfindlichkeit als Stäbchen und sind stärker am Farbsehen beteiligt.
+
+Die von Ihren Stäbchen und Zapfen empfangenen Informationen werden von Ihrer Netzhaut an Ihren Sehnerv übertragen. Sobald Sie sich in Ihrem Schädel befinden, treffen sich beide Sehnerven, **um etwas zu bilden, das als optisches Chiasma bezeichnet wird**. Beim Chiasma opticum bilden Nervenfasern aus der Hälfte jeder Netzhaut zwei separate Optikusbahnen.
+
+Durch jeden Optiktrakt erreichen die Nervenimpulse schließlich Ihren **visuellen Kortex**, der dann die Informationen verarbeitet. Ihr visueller Kortex befindet sich im hinteren Teil Ihres Gehirns.
+
+=== 3 Nervus Okulomotorius - Okulomotorischer Nerv ===
+Der N. oculomotorius hat zwei verschiedene motorische Funktionen: Muskelfunktion und Pupillenreaktion.
+
+**- Muskelfunktion**. Ihr okulomotorischer Nerv versorgt vier der sechs Muskeln um Ihre Augen herum mit motorischer Funktion. Diese Muskeln helfen Ihren Augen, sich zu bewegen und sich auf Objekte zu konzentrieren.
+**- Schülerantwort**. Es hilft auch, die Größe Ihrer Pupille zu kontrollieren, wenn diese auf Licht reagiert.
+
+Dieser Nerv entsteht im vorderen Teil Ihres Mittelhirns, der Teil Ihres Hirnstamms ist. Es bewegt sich von diesem Bereich vorwärts, bis es den Bereich Ihrer Augenhöhlen erreicht.
+
+siehe auch
+[[FasciclusLongitudinalisMedialis]]
+
+=== 4 Nervus trochlearis - Trochlea Nerv ===
+**Der Trochlea-Nerv steuert Ihren oberen schrägen Muskel.** 
+Dies ist der Muskel, der für die Augenbewegungen nach unten, außen und innen verantwortlich ist.
+
+Es tritt aus dem hinteren Teil Ihres Mittelhirns aus. Wie Ihr N. oculomotorius bewegt er sich vorwärts, bis er Ihre Augenhöhlen erreicht, wo er den oberen schrägen Muskel stimuliert.
+
+**Er ist der schwächste Hirnnerv** - gemessen an der Zahl der Axone
+Er hat von allen Hirnnerven den längsten intrakraniellen Verlauf.
+
+https://flexikon.doccheck.com/de/Nervus_trochlearis?utm_source=www.doccheck.flexikon&utm_medium=web&utm_campaign=DC%2BSearch
+
+siehe auch
+[[FasciclusLongitudinalisMedialis]]
+
+
+=== 5 Nervus Trigeminus ===
+**Der Trigeminus ist der größte Ihrer Hirnnerven** und hat sowohl sensorische als auch motorische Funktionen.
+
+Der Trigeminus hat drei Unterteilungen:
+
+Aufteilung in drei Hauptäste:
+
+V1: Augenast (Nervus ophthalmicus)
+V2: Oberkieferast (Nervus maxillaris)
+V3: Unterkieferast (Nervus mandibularis).
+
+**- Ophthalmic**. Die ophthalmologische Abteilung sendet sensorische Informationen aus dem oberen Teil Ihres Gesichts, einschließlich Ihrer Stirn, Kopfhaut und oberen Augenlider.
+**- Oberkiefer**. Diese Abteilung überträgt sensorische Informationen aus dem mittleren Teil Ihres Gesichts, einschließlich Ihrer Wangen, Oberlippe und Nasenhöhle.
+**- Unterkiefer.** Die Unterkieferteilung hat sowohl eine sensorische als auch eine motorische Funktion. Es sendet sensorische Informationen von Ihren Ohren, Ihrer Unterlippe und Ihrem Kinn. Es steuert auch die Bewegung der Muskeln in Kiefer und Ohr.
+Der Trigeminus stammt aus einer Gruppe von Kernen - einer Ansammlung von Nervenzellen - im Mittelhirn- und Medulla-Bereich Ihres Hirnstamms. Schließlich bilden diese Kerne eine getrennte sensorische Wurzel und motorische Wurzel.
+
+Die sensorische Wurzel Ihres Trigeminusnervs verzweigt sich in die Bereiche Augen, Oberkiefer und Unterkiefer. Die motorische Wurzel Ihres Trigeminusnervs verläuft unterhalb der sensorischen Wurzel und ist nur in der Unterkieferabteilung verteilt.
+
+[[TRigeminaleWahrnehmung]] 
+
+=== 6 Nervus Abducens ===
+Der Nervus abducens steuert einen anderen Muskel, der mit Augenbewegungen verbunden ist, **den lateralen Rektusmuskel**. **Dieser Muskel ist an der Bewegung des Auges nach außen beteiligt**. Zum Beispiel würden Sie es verwenden, um zur Seite zu schauen.
+
+Dieser Nerv, auch als abduzierender Nerv bezeichnet, beginnt in der Pons-Region Ihres Hirnstamms. Es tritt schließlich in Ihre Augenhöhle ein und steuert dort den lateralen Rektusmuskel.
+
+https://flexikon.doccheck.com/de/Nervus_abducens?utm_source=www.doccheck.flexikon&utm_medium=web&utm_campaign=DC%2BSearch
+
+siehe auch
+[[FasciclusLongitudinalisMedialis]]
+
+
+=== 7 Nervus Facialis Gesichtsnerv ===
+Der Gesichtsnerv bietet sowohl sensorische als auch motorische Funktionen, einschließlich:
+
+- sich bewegende **Muskeln für Gesichtsausdrücke** sowie einige Muskeln in Ihrem Kiefer
+- **Bereitstellung eines Geschmackssinns** für den größten Teil Ihrer Zunge
+- Versorgung von Drüsen in Ihrem Kopf- oder Halsbereich, wie **Speicheldrüsen und tränenerzeugende Drüsen**
+- Empfindungen von den äußeren Teilen Ihres Ohrs zu kommunizieren
+
+Ihr Gesichtsnerv hat einen sehr komplexen Weg. Es stammt aus dem Pons-Bereich Ihres Hirnstamms, wo es sowohl eine motorische als auch eine sensorische Wurzel hat. Schließlich verschmelzen die beiden Nerven zum Gesichtsnerv.
+
+Sowohl innerhalb als auch außerhalb Ihres Schädels verzweigt sich der Gesichtsnerv weiter in kleinere Nervenfasern, die Muskeln und Drüsen stimulieren oder sensorische Informationen liefern.
+
+=== 8 Nervus vestibulocochlearis ===
+Ihr Nervus vestibulocochlearis hat sensorische Funktionen, die **das Hören und das Gleichgewicht** betreffen. Es besteht aus zwei Teilen, dem Cochlea-Teil und dem Vestibular-Teil:
+
+**- Cochlea-Teil.** Spezielle Zellen in Ihrem Ohr erkennen Vibrationen von Geräuschen basierend auf der Lautstärke und Tonhöhe des Geräusches. Dies erzeugt Nervenimpulse, die auf den Cochlea-Nerv übertragen werden.
+**- Vestibularer Teil.** Ein weiterer Satz spezieller Zellen in diesem Bereich kann sowohl lineare als auch rotatorische Bewegungen Ihres Kopfes verfolgen. Diese Informationen werden an den Nervus vestibularis übertragen und zur Anpassung Ihres Gleichgewichts und Gleichgewichts verwendet.
+
+Die Cochlea- und Vestibularabschnitte Ihres Nervus vestibulocochlearis stammen aus getrennten Bereichen des Gehirns.
+
+Der Cochlea-Teil beginnt in einem Bereich Ihres Gehirns, der als unterer Kleinhirnstiel bezeichnet wird. Der vestibuläre Teil beginnt in Ihren Pons und Medulla. Beide Teile bilden zusammen den Nervus vestibulocochlearis.
+
+=== 9 Nervus glossopharyngealis ===
+Der Nervus glossopharyngealis hat sowohl motorische als auch sensorische Funktionen, einschließlich:
+
+- Senden von sensorischen Informationen aus Ihren Nebenhöhlen, Ihrem Rachen, Teilen Ihres Innenohrs und dem hinteren Teil Ihrer Zunge
+- Bereitstellung eines Geschmackssinns für den hinteren Teil Ihrer Zunge
+- Stimulierung der freiwilligen Bewegung eines Muskels im Rachen, der als Stylopharyngeus bezeichnet wird
+
+Der Nervus glossopharyngealis stammt aus einem Teil Ihres Hirnstamms, der Medulla oblongata. Es erstreckt sich schließlich in Ihre Hals- und Rachenregion.
+
+=== 10 Nervus Vagus ===
+Der Vagusnerv ist ein sehr vielfältiger Nerv. Es hat sowohl sensorische als auch motorische Funktionen, einschließlich:
+
+- Übermittlung von Sensationsinformationen aus Ihrem Gehörgang und Teilen Ihres Rachens
+- Senden sensorischer Informationen von Organen in Brust und Rumpf wie Herz und Darm
+- Ermöglichen der motorischen Kontrolle der Muskeln in Ihrem Hals
+- Stimulierung der Muskeln von Organen in Brust und Rumpf, einschließlich solcher, die Nahrung durch Ihren Verdauungstrakt bewegen (Peristaltik)
+- Bereitstellung eines Geschmackssinns in der Nähe der Wurzel Ihrer Zunge
+
+Von allen Hirnnerven hat der Vagusnerv den längsten Weg. Es erstreckt sich von Ihrem Kopf bis in Ihren Bauch. Es stammt aus dem Teil Ihres Hirnstamms, der Medulla genannt wird.
+
+[[VagusPolyvagaltheorie]]
+[[VagusStoff]] 
+[[Vagus]]
+
+=== 11 Nervus Accsessorius - Spinaler Hilfsnerv ===
+Ihr akzessorischer Nerv ist ein motorischer Nerv, der die Muskeln in Ihrem Nacken steuert. 
+Mit diesen Muskeln können Sie Hals und Schultern drehen, beugen und strecken.
+
+**Es ist in zwei Teile unterteilt: Wirbelsäule und Schädel**. 
+Der Wirbelsäulenabschnitt entsteht im oberen Teil Ihres Rückenmarks. Der Schädelteil beginnt in Ihrer Medulla oblongata.
+
+Die Fasern des kranialen Teils stammen von Nervenzellköpern des Nucleus ambiguus im Markhirn am Boden der Rautengrube, treten als Radices craniales in kaudaler Fortsetzung der Wurzelfasern des Nervus vagus aus dem Verlängerten Mark, und werden nach dem Schädelaustritt als Ramus internus dem Vagusnerven zugeführt. Sie stellen die kaudale Fortsetzung des Vagus dar und innervieren branchiomere Muskulatur von Schlund und Kehlkopf.
+
+Motorische Kerne der Hirnnerven – unten Nucleus nervi accessorii (XI)
+Die Fasern des spinalen Teils stammen von Nervenzellkörpern des Nucleus nervi accessorii im Vorderhorn der Segmente C1 bis C6 des Halsmarks, treten als Radices spinales zwischen den vorderen und hinteren Wurzelfasern der Spinalnerven aus dem Rückenmark, ziehen zunächst in den Schädel und bilden nach dem Wiederaustritt den Ramus externus, von dem Muskeläste abgehen. Sie innervieren den Musculus sternocleidomastoideus und den Musculus trapezius und können als Spinalnerv angesehen werden.
+
+Diese Teile treffen sich kurz bevor sich der spinale Teil des Nervs bewegt, um die Muskeln Ihres Halses zu versorgen, während der kraniale Teil dem Vagusnerv folgt.
+
+https://de.wikipedia.org/wiki/Nervus_accessorius
+
+=== 12 Nervus Hpoglossus - Hypoglossaler Nerv ===
+Ihr hypoglossaler Nerv ist der 12. Hirnnerv, der für die Bewegung der meisten Muskeln in Ihrer Zunge verantwortlich ist. Es beginnt in der Medulla oblongata und wandert in den Kiefer, wo es die Zunge erreicht.
+
+
+
